@@ -1,4 +1,4 @@
-####基于python 的命令行下中英文翻译工具，使用搜狗翻译api
+#### 基于python 的命令行下中英文翻译工具，使用搜狗翻译api
 pip 安装
 ```
 $ pip install sougou-cli
