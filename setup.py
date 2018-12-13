@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 from os import path
 
 dir_path = path.abspath(path.dirname(__file__))
-print(dir_path)
+
 with open(path.join(dir_path, "README.md"), encoding='utf-8') as f:
     long_description = f.read()
 
